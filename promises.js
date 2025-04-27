@@ -16,7 +16,7 @@ function watchMyYoutubeVideoPromise() {
         } else {
             resolve("User watched the whole video and liked")
         }
-    })
+    }) 
 }
 
 
